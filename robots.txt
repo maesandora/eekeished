@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chewoneech.100px.me/sitemap.xml
